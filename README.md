@@ -1,2 +1,2 @@
-# waxom.github.io
+# waxomkindeev.github.io
 Сайт2
